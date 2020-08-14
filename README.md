@@ -1,4 +1,4 @@
-# user-profile-behavior
+# user-profile-mixin
 
 
-A Polymer-based behaviour to make requests and get basic user profile information such as: Name, School, Image and Theme. Requests userUrl and token.
+A Litelement mixin to make requests and get basic user profile information such as: Name, School, Image and Theme. Requests userUrl and token.

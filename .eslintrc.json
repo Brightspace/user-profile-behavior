@@ -2,5 +2,8 @@
   "extends": "brightspace/polymer-3-config",
   "globals": {
 	   "Promise": false
+  },
+  "rules": {
+    "arrow-parens": "error"
   }
 }
